@@ -75,3 +75,5 @@ This project demonstrates basic concepts of:
 - OpenGL usage in Python
 - PyGame window management
 - Real-time rendering
+
+Email:yeswanthsoma83@gmail.com
